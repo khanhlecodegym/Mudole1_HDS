@@ -1,0 +1,51 @@
+body {
+    background-image: url(../image/backgrond.jpg);
+}
+
+#myCanvas {
+    border: 3px outset #d3d3d3;
+    background-color: lightsteelblue;
+    background-image: url(../image/bgcanvas.jpg);
+    margin-left: 0px;
+    margin-top: 10px;
+    float: left;
+    cursor: url("../image/cusor.png"), auto;
+}
+
+.bg {
+    width: 400px;
+    margin: auto;
+}
+
+.left {
+    float: left;
+    color: rgb(252, 16, 16);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding: 30px;
+    text-align: center;
+}
+
+.main {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.guide {
+    width: 300px;
+    color: white;
+    font-size: 15px;
+    margin-top: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 70px;
+}
+
+#again {
+    margin-top: 72px;
+    margin-left: 60px;
+}
